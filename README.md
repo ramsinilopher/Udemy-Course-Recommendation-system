@@ -1,6 +1,7 @@
 # 🎓Udemy-Course-Recommendation-system
 
-![Banner](udemy project image.png)
+![Banner](udemy_project_image.png)
+
 
 
 A smart, efficient recommendation system that suggests Udemy courses based on course content and popularity. Built using Natural Language Processing (NLP) techniques, this project applies both content-based filtering and popularity-based recommendation logic.
