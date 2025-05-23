@@ -13,7 +13,8 @@ This project leverages a real-world Udemy dataset from Kaggle and implements two
 
 - Cleaned and preprocessed course data
 - EDA visualizations with Seaborn and Matplotlib
-- NLP-based preprocessing using `neattext`
+- NLP-based preprocessing 
+
 - Content vectorization with  `TfidfVectorizer`
 - Cosine similarity-based recommendation engine
 - Popularity-based ranking logic
